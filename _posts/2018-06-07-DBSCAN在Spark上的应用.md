@@ -4,7 +4,7 @@ title:      DBSCAN在Spark上的应用
 subtitle:   使用开源库
 date:       2018-06-07
 author:     Zach
-header-img: img/post-bg-kuaidi.jpg
+header-img: img/post-bg-field.jpg
 catalog: true
 tags:
     - DBSCAN

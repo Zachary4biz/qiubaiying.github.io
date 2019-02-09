@@ -4,7 +4,7 @@ title:      GPU版TensorFlow&DeepFM
 subtitle:   个人整理
 date:       2018-08-20
 author:     Zach
-header-img: img/post-bg-kuaidi.jpg
+header-img: img/post-bg-field.jpg
 catalog: true
 tags:
     - TensorFlow

@@ -4,7 +4,7 @@ title:      使用TensorBoard
 subtitle:   How to
 date:       2018-08-20
 author:     Zach
-header-img: img/post-bg-kuaidi.jpg
+header-img: img/post-bg-field.jpg
 catalog: true
 tags:
     - TensorFlow
@@ -49,6 +49,12 @@ tensorboard --logdir="./graphs" --port 5006
         * 从正常机器拷贝到目标机器的```lib-dynload```目录即可
         * (linux就找linux，不同机器的_sqlite3文件名不同的，如linux是```_sqlite3.cpython-36m-x86_64-linux-gnu.so```，mac是```_sqlite3.cpython-36m-darwin.so```)
 
+- 配置、调起TensorBoard
+- TensorBoard各个控件
+    - 统计标量（SCALARS）
+    - 计算图（GRAPHS）
+    - 分布图（DISTRIBUTION）
+    - 直方图（HISTOGRAMS）
 
 
 
